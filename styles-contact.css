@@ -60,7 +60,7 @@ html, body {
   width: 100%;
   padding: 0;
   margin: 0;
-  background: url(images/sunset\ backround\ .jpeg)
+  background: url(images/IMG_0872.JPG)
 	center center fixed no-repeat;
 	background-size: cover;
 	
@@ -70,11 +70,11 @@ html, body {
 }
 
 .center {
-    width: 800px;
-	padding: 2%;
+	width: 700px;
+	padding: 1%;
     margin: 100px auto;
- 	background: rgba(106, 148, 240, 0.75); /*this uses opacity of 75% for the background color*/
-	text-align: center;
+ 	background: rgba(250, 223, 148, 0.75); /*this uses opacity of 75% for the background color*/
+	 text-align: center;
 	
 }
 
@@ -86,14 +86,14 @@ html, body {
 
 h1 {
 	font-family: garamond, serif;
-	font-size: 2em;
+	font-size: 4em;
     margin: 0px auto 10px auto;
     color: #fff;
 }
 
 h2 {
 	 /* FONT-FAMILY GOES HERE CHOOSE FROM ADOBE FONTS OR GOOGLE FONTS */
-	font-size: 1.5em;
+	font-size: 4em;
     line-height: 1.4;
     color: #fff;
     padding: 0px 0px;
@@ -102,7 +102,7 @@ h2 {
 
  p {
 	/* FONT-FAMILY GOES HERE CHOOSE FROM ADOBE FONTS OR GOOGLE FONTS */		;
-	font-size: 1.2em;
+	font-size: 4em;
     line-height: 1.6;
     color: #fff;
 	}
@@ -126,12 +126,12 @@ nav a{
 	padding: 10px;
 	}
 a{
-	color: #444;
+	color: rgb(255, 255, 255);
 	text-decoration: none;
 	font-weight: bold;
 	}
 a:hover{
-	color:black;
-	background-color:rgb(0, 0, 0);
+	color:rgb(255, 255, 255);
+	background-color:rgb(154, 177, 243);
 	}
 
